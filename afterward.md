@@ -1,0 +1,3 @@
+- [ ] Form input (modal)
+- [ ] Confirm before delete
+- [ ] Responsive design
